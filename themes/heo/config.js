@@ -118,10 +118,10 @@ const CONFIG = {
   ],
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  HEO_SOCIAL_CARD_TITLE_1: '来听音乐',
-  HEO_SOCIAL_CARD_TITLE_2: '听听音乐',
-  HEO_SOCIAL_CARD_TITLE_3: '音乐',
-  HEO_SOCIAL_CARD_URL: 'https://yue.ffaa.uk',
+  HEO_SOCIAL_CARD_TITLE_1: '美女壁纸',
+  HEO_SOCIAL_CARD_TITLE_2: '黑丝壁纸',
+  HEO_SOCIAL_CARD_TITLE_3: '天天更新',
+  HEO_SOCIAL_CARD_URL: 'https://bizhi.coolc.de',
 
   // 底部统计面板文案
   HEO_POST_COUNT_TITLE: '文章数:',
